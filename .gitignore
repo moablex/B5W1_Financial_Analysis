@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+# Conda environment lock files (optional)
+conda-meta/
+*.conda
+*.lock
+
+# VSCode or IDE-specific
+.vscode/
+.idea/
+
+
+__pycache__/
+
+*.pyc
+*.csv
