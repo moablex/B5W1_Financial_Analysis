@@ -1,8 +1,20 @@
+*.pyc pycache/ 
+*.pyo
+*.pyd 
+.Python build/ dist/ 
+*.egg-info/ 
+*.egg 
+env/
+venv/
+.env
+.venv/
+*.env 
 .ipynb_checkpoints/
 # Conda environment lock files (optional)
 conda-meta/
 *.conda
 *.lock
+/notebooks/nltk_data/
 
 # VSCode or IDE-specific
 .vscode/
