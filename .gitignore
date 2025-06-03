@@ -26,3 +26,5 @@ __pycache__/
 *.pyc
 *.csv
 /data/
+ta-lib-0.4.0-src.tar.gz
+ta-lib/
